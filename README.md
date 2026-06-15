@@ -78,3 +78,18 @@ Arquivo do Power BI com os dashboards
 
 reports/
 Relatório final e apresentação executiva
+```
+
+## Principais resultados
+
+A solução permitiu organizar os dados da Olist em uma base consolidada e gerar indicadores estratégicos para análise do desempenho comercial, logístico e de satisfação dos clientes.
+
+Entre os principais resultados obtidos estão:
+
+Faturamento total consolidado
+Total de pedidos entregues
+Ticket médio
+Prazo médio de entrega
+Taxa de atraso
+Nota média de avaliação
+Previsão de faturamento mensal com modelo preditivo
